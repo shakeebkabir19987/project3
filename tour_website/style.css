@@ -1,0 +1,248 @@
+.images img{
+    padding: 0px;
+    margin-left: -50px;
+    width: 104%;
+    height: 800px;
+}
+.band h1{
+    margin-left: 40%;
+    margin-top: 10%;
+}
+.band h5{
+    margin-left: 42%;
+    margin-top: 1%;
+    color: grey;
+}
+.band p{
+    margin-left: 20%;
+    margin-top: 1%;
+    width: 750px;
+    justify-content: center;
+    
+}
+.maincolumn{
+    display: flex;
+    margin-left: 200px;
+}
+.col1{
+    background-color: yellow;
+    border: 1px solid black;
+    margin-left: 30px;
+    width: 170px;
+    height: 200px;
+      
+}
+.col2{
+    background-color: yellow;
+    border: 1px solid black;
+     margin-left: 50px;
+     width: 170px;
+     height: 200px;
+}
+.col3{
+    background-color: yellow;
+    border: 1px solid black;
+    margin-left: 50px;
+    width: 170px;
+    height: 200px; 
+}
+.container h5{
+    margin-left: 280px;
+    margin-top: 50px;
+}
+.name2{
+   margin-left: 500px;
+   margin-top: -40px;
+}
+.name3{
+   margin-left: 710px;
+   margin-top: -40px;
+   
+}
+.datecontainer{
+    background-color: black;
+    width: 100%;
+    height: 850px;
+    margin-top: 0px;
+}
+.tourdates{
+    margin-left: 550px;
+    padding-top: 70px;
+}
+
+.datecontainer h5{
+    margin-left: 530px;
+    padding-top: 10px;
+    
+}
+.date h5{
+border: 1px solid grey; 
+width: 800px;
+height: 50px;
+margin-left: 0px;
+
+padding-top: 7px;
+padding-left: 18px;
+}
+.date button{
+    margin-left: 20px;
+    margin-top: -30px;
+    background-color: red;
+    color: white;
+}
+
+.date1 h5{
+    border: 1px solid grey; 
+    width: 800px;
+    height: 50px;
+    margin-left: -300px;
+    
+    padding-top: -20px;
+    padding-left: 18px;
+    }
+
+    .date2 h5{
+        border: 1px solid grey; 
+        width: 800px;
+        height: 50px;
+        margin-left: -300px;
+        
+        padding-top: -20px;
+        padding-left: 18px;
+        }
+        .maincard{
+           
+        }
+        .card{
+           
+            margin-top: 50px;
+            margin-left: 250px;
+        }
+        .card-text{
+            padding-top:-20px;
+        }
+        .newyork{
+            margin-left: 10px;
+            margin-top: 10px;
+        }
+        .span{
+            margin-left: 10px;
+            margin-top: 10px;
+        }
+        
+        .maincard2{
+            margin-top: -480px;
+            margin-left: 550px;
+            border: 1px solid white;
+            width: 290px;
+           
+        }
+        .maincard3{
+            margin-top: -390px;
+            margin-left: 850px;
+            border: 1px solid white;
+            width: 290px;
+           
+        }
+        .maincontact{
+            width: 100%;
+            height: 450px;
+            
+        }
+        .maincontact h1{
+            margin-top: 100px;
+            margin-left: 600px;
+            margin-top: 200px;
+        }
+        .maincontact span{
+            margin-top: 100px;
+            margin-left: 620px;
+            margin-top: 200px;
+            color: grey;
+        }
+        .form{
+            margin-top: -300px;
+            margin-left: 250px;
+        }
+        .form2{
+            margin-top: 10px;
+            margin-left: 250px;
+            
+        }
+        .form3{
+            margin-top: 10px;
+            margin-left: 600px;
+            background-color: black;
+            color: white;
+            
+        }
+        .box1{
+            width: 20px;
+            height: 20px;
+            /* border: 1px solid black; */
+        }
+        .box2{
+            margin-top: 10px;
+            width: 20px;
+            height: 20px;
+            /* border: 1px solid black; */
+        }
+        .box3{
+            margin-top: 10px;
+            width: 20px;
+            height: 20px;
+            /* border: 1px solid black; */
+        }
+        .mainphone{
+            margin-left: 1000px;
+            margin-top: -100px;
+        }
+        .map img{
+            width: 100%;
+            height: 800px;
+            margin-top: 150px;
+        }
+        .mainfooter{
+            margin-top: 80px;
+            margin-left: 600px;
+            display: flex;
+            width: 100%;
+            height: 200px;
+        }
+        .f1{
+            margin-left: 5px;
+            /* border: 1px solid black; */
+            width: 20px;
+            height: 20px;
+        }
+        .f2{
+            margin-left: 5px;
+            /* border: 1px solid black; */
+            width: 20px;
+            height: 20px;
+        }
+        .f3{
+            margin-left: 5px;
+            /* border: 1px solid black; */
+            width: 20px;
+            height: 20px;
+        }
+        .f4{
+            margin-left: 5px;
+            /* border: 1px solid black; */
+            width: 20px;
+            height: 20px;
+        }
+        .f5{
+            margin-left: 5px;
+            /* border: 1px solid black; */
+            width: 20px;
+            height: 20px;
+        }
+        .f6{
+            margin-left: 5px;
+            /* border: 1px solid black; */
+            width: 20px;
+            height: 20px;
+        }
+        
